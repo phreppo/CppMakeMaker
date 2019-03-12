@@ -3,7 +3,7 @@ Makefile generator for C++ small projects, coded at university to learn OOP. It 
 
 ## Building
 Simply run 
-
+ 
 ``` 
 make 
 ```
